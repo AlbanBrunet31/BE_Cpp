@@ -2,7 +2,7 @@
 
 Bureau d'études de conception orientée objet en C++
 
-Alban Brunet
+Alban Brunet et 
 Alexis Pierre dit lambert
 
 Avril 2022
