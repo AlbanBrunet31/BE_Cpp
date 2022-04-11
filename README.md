@@ -35,6 +35,7 @@ Capteurs :
 Pris dans l'armoire :
 	- écran LCD : Grove-LCD RGB Backlight
 	- DC/AC Current Senor
+	- Tx et Rx infrarouge
 	
 
 
