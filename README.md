@@ -31,10 +31,11 @@ Capteurs :
 	Optionnel :
 	( un démultipléxeur
 	 des diodes (x16)  )
+________
 
 Pris dans l'armoire :
 	- écran LCD : Grove-LCD RGB Backlight
-	- DC/AC Current Senor
+	((- DC/AC Current Senor))
 	- Tx et Rx infrarouge
 	
 
