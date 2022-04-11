@@ -32,6 +32,10 @@ Capteurs :
 	( un démultipléxeur
 	 des diodes (x16)  )
 
+Pris dans l'armoire :
+	- écran LCD : Grove-LCD RGB Backlight
+	- DC/AC Current Senor
+	
 
 
 
