@@ -10,7 +10,7 @@ Avril-Mai 2022
 Une girouette qui détecte la vitesse et la direction du vent, et allume une pompe à eau si la vitesse est assez importante.
 Les informations (vitesse, direction, pompe) sont affichées sur un écran lcd.
 
-Un actionneur :	une pome à eau, qui pompe d'un réservoir bas vers haut
+Un actionneur :	une pompe à eau, qui pompe d'un réservoir bas vers haut
 _______
 
 Capteurs :
@@ -23,8 +23,8 @@ ________
 
 Pris dans l'armoire :
 	- écran LCD : Grove-LCD RGB Backlight
-	((- DC/AC Current Senor))
 	- Tx et Rx infrarouge
+	- Pompe
 	
 
 
